@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Whatsapp Clone
 
-## Getting Started
+A clone of the popular social media app with some added functionalities. This project was created by the newsHive group as part of the learning process
 
-First, run the development server:
+# ✏️ Design File
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+https://www.figma.com/file/6v8pxl0vQdZ3F8TsJLmYDy/whatsapp-ui?node-id=0%3A1&t=O02xwSJkvTz68bKk-3
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# ⚒️ Technologies Used
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- React
+- NextJS
+- Tailwind
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# 👇 Prerequisites
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Make sure you have the following installed before making a contribution
 
-## Learn More
+- Git
+- NodeJS
+- Vs code
 
-To learn more about Next.js, take a look at the following resources:
+# 🛠️ Contribution guidelines
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the project using the command:
+   `git clone https://github.com/iampitrus/whatsapp-clone.git`
+2. Navigate to the project directory using:
+   `cd whatsapp-clone`
+3. Install the Dependencies using:
+   `npm install or yarn install`
+4. Switch to the develop branch using using:
+   `git checkout develop`
+5. Run the project locally
+   `npm run dev or yarn dev`
+6. Start Building
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Note: You can see your current working branch at the bottom left corner in vscode
+- As a newbie, familiar with just html and css, simply open the staging folder and create a folder naming it according to the template you want to add and simply add your files there
 
-## Deploy on Vercel
+# When Done Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Add to Stage using:
+   `git add .`
+2. Commit changes using:
+   `git commit -m 'enter-commit-message-here'`
+3. Push your changes using:
+   `git push`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Or You can simply use the Vscode in built git support for all that [Learn more](https://m.youtube.com/watch?v=i_23KUAEtUM)
+
+# ❗ Reminder
+
+Dont forget to drop a star
