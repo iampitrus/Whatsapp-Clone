@@ -40,7 +40,7 @@ Make sure you have the following installed before making a contribution
 ## Running Localhost on Mobile
 
 1. On your mobile hotspot and connect your PC to the hotspot
-2. Go to your terminal and type `ipconfig` on windows, or `d` on mac to see the local address of your network, you'll see something like this:
+2. Go to your terminal and type `ipconfig` on windows, or `ifconfig` on mac to see the local address of your network, you'll see something like this:
 ![You should see this](https://user-images.githubusercontent.com/66377818/208298206-b1a1e4b9-0d18-4c60-868a-317a2253c3ae.png)
 3. Copy the address (IPv4 address) from your PC into your phone, which is `192.168.205.133` in my case, then add `:3000` to the last digit, then it becomes like this `192.168.205.133:3000`
 4. Type the above address `192.168.205.133:3000` in your browser and enter. This should launch the localhost on your mobile phone
