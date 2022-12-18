@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body main {
+  margin: 0 auto;
+}
+svg:hover {
+  cursor: pointer;
+}
+.active {
+  @apply text-white border-b-white border-b-2;
+}
